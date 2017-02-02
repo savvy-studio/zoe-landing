@@ -1,0 +1,153 @@
+section.left
+  width: 50%
+  height: 100vh
+  background: $gray
+  position: absolute
+
+  .center-mobil
+    display: none
+    text-align: center
+    position: relative
+    top: 50%
+    transform: translateY(-50%)
+    .first
+      img
+        width: 170px
+    .midle
+      h1
+        color: $black
+        font-family: 'Austin light'
+        text-transform: uppercase
+        font-weight: lighter
+        letter-spacing: 2px
+        padding: 0
+    .last
+
+      span
+        font-family: 'Austin italic'
+        color: $black2
+      a
+        padding-right: 5px
+        font-size: 15pt
+        font-family: 'Austin light'
+        color: $black2
+
+
+
+      .space
+        font-family: 'Austin light'
+      .tel
+        padding-left: 5px
+        letter-spacing: 2px
+        font-size: 15pt
+
+
+  .center
+    height: 100vh
+    position: relative
+    text-align: center
+    background: $gray
+    display: flex
+    flex-direction: column
+    justify-content: center
+
+    .first
+      position: absolute
+      top: 100px
+      left: 50%
+      transform: translateX(-50%)
+      img
+        width: 170px
+
+    .midle
+      h1
+        color: $black
+        font-family: 'Austin light'
+        text-transform: uppercase
+        font-weight: lighter
+        letter-spacing: 2px
+        font-size: 58.69pt
+        padding: 0 20px
+
+        span
+          font-family: 'Austin italic'
+    .last
+      width: 330px
+      max-width: 330px
+      position: absolute
+      left: 50%
+      transform: translateX(-50%)
+      bottom: 100px
+      span
+        font-family: 'Austin italic'
+      a
+        padding-right: 5px
+        font-size: 15pt
+        font-family: 'Austin light'
+        color: $black2
+
+
+
+      .space
+        font-family: 'Austin light'
+      .tel
+        padding-left: 5px
+        letter-spacing: 2px
+        font-size: 15pt
+
+
+section.right
+  position: absolute
+  top: 0
+  right: 0
+  width: 50%
+  height: 100vh
+  background: $green
+  display: flex
+  flex-direction: column
+  justify-content: center
+  img
+    position: relative
+    left: 50%
+    transform: translateX(-50%)
+    width: 215px
+
+@media(max-width: 1280px)
+  section.left
+    h1
+      font-size: 48.69pt !important
+
+@media(max-width: 768px)
+  section.left
+    display: block !important
+    position: static !important
+    width: 100%
+    height: 50vh !important
+    .center-mobil
+      display: block
+    .center
+      display: none
+      .first
+
+      .midle
+      .last
+  section.right
+    position: relative
+    width: 100%
+    height: 50vh
+    bottom: 50px !important
+
+@media(max-width: 460px)
+  section.left
+    .center-mobil
+      .first
+        img
+          width: 100px
+      .midle
+        h1
+          font-size: 30pt !important
+      .last
+        span
+          font-size: 10pt !important
+        a
+          font-size: 10pt !important
