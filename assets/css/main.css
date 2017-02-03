@@ -1,12 +1,14 @@
 @font-face {
   font-family: 'Austin light';
-  src: url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.eot");
-  src: url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.woff") format("woff"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.svg#Austin") format("svg"); }
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/Austin-Light.otf); }
 
 @font-face {
-  font-family: "Austin italic";
-  src: url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.eot");
-  src: url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.woff") format("woff"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.svg#Austin") format("svg"); }
+  font-family: 'Austin italic';
+  font-style: normal;
+  font-weight: normal;
+  src: url(../fonts/Austin-LightItalic.otf); }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -373,7 +375,7 @@ section.left {
         font-family: 'Austin italic'; }
       section.left .center .last a {
         padding-right: 5px;
-        font-size: 12.5pt;
+        font-size: 15pt;
         font-family: 'Austin light';
         color: #191818; }
       section.left .center .last .space {
@@ -381,7 +383,7 @@ section.left {
       section.left .center .last .tel {
         padding-left: 5px;
         letter-spacing: 2px;
-        font-size: 12.5pt; }
+        font-size: 15pt; }
 
 section.right {
   position: absolute;
@@ -401,7 +403,7 @@ section.right {
 
 @media (max-width: 1280px) {
   section.left h1 {
-    font-size: 43.69pt !important; } }
+    font-size: 48.69pt !important; } }
 
 @media (max-width: 768px) {
   section.left {
@@ -422,10 +424,8 @@ section.right {
       width: 200px; } }
 
 @media (max-width: 460px) {
-  section.left .center-mobil .first {
-    top: 50px !important; }
-    section.left .center-mobil .first img {
-      width: 100px; }
+  section.left .center-mobil .first img {
+    width: 100px; }
   section.left .center-mobil .midle h1 {
     font-size: 30pt !important; }
   section.left .center-mobil .last span {

@@ -1169,6 +1169,18 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/fonts\/Austin-Light.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-Light.otf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Austin-LightItalic.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-LightItalic.otf",
+		"oF": 0
+		},
 	"\/assets\/img\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
