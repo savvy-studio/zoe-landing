@@ -2,13 +2,13 @@
   font-family: 'Austin light';
   font-style: normal;
   font-weight: normal;
-  src: url(../fonts/Austin-Light.otf); }
+  src: url(Austin-Light.otf); }
 
 @font-face {
   font-family: 'Austin italic';
   font-style: normal;
   font-weight: normal;
-  src: url(../fonts/Austin-LightItalic.otf); }
+  src: url(Austin-LightItalic.otf); }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
