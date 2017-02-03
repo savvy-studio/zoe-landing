@@ -1,14 +1,12 @@
 @font-face {
   font-family: 'Austin light';
-  font-style: normal;
-  font-weight: normal;
-  src: url(../fonts/Austin-Light.otf); }
+  src: url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.eot");
+  src: url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.woff") format("woff"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b4c2a2f0ea21baef39792f629744a64d.svg#Austin") format("svg"); }
 
 @font-face {
-  font-family: 'Austin italic';
-  font-style: normal;
-  font-weight: normal;
-  src: url(../fonts/Austin-LightItalic.otf); }
+  font-family: "Austin italic";
+  src: url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.eot");
+  src: url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.woff") format("woff"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b5106af4d12b4f7b754a08d0b173e761.svg#Austin") format("svg"); }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
