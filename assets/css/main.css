@@ -373,7 +373,7 @@ section.left {
         font-family: 'Austin italic'; }
       section.left .center .last a {
         padding-right: 5px;
-        font-size: 15pt;
+        font-size: 12.5pt;
         font-family: 'Austin light';
         color: #191818; }
       section.left .center .last .space {
@@ -381,7 +381,7 @@ section.left {
       section.left .center .last .tel {
         padding-left: 5px;
         letter-spacing: 2px;
-        font-size: 15pt; }
+        font-size: 12.5pt; }
 
 section.right {
   position: absolute;
@@ -401,7 +401,7 @@ section.right {
 
 @media (max-width: 1280px) {
   section.left h1 {
-    font-size: 48.69pt !important; } }
+    font-size: 43.69pt !important; } }
 
 @media (max-width: 768px) {
   section.left {
@@ -422,8 +422,10 @@ section.right {
       width: 200px; } }
 
 @media (max-width: 460px) {
-  section.left .center-mobil .first img {
-    width: 100px; }
+  section.left .center-mobil .first {
+    top: 50px !important; }
+    section.left .center-mobil .first img {
+      width: 100px; }
   section.left .center-mobil .midle h1 {
     font-size: 30pt !important; }
   section.left .center-mobil .last span {
