@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "A349D8B6-9C9B-444C-9553-EB443933304F"
+		"uuidString": "EED75E06-DB03-4B33-8BD7-46DFE26CD808"
 		}
 	],
 "creatorBuild": "25504",
@@ -111,7 +111,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/main-min.css",
 		"oF": 0,
 		"oS": 0
@@ -123,11 +123,17 @@
 		"dS": 0,
 		"ft": 2,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/assets\/fonts\/Austin-Light.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-Light.eot",
+		"oF": 0
 		},
 	"\/assets\/fonts\/Austin-Light.otf": {
 		"ft": 8192,
@@ -135,10 +141,60 @@
 		"oAP": "\/assets\/fonts\/Austin-Light.otf",
 		"oF": 0
 		},
+	"\/assets\/fonts\/Austin-Light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/fonts\/Austin-Light.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-Light.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Austin-Light.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-Light.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Austin-LightItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-LightItalic.eot",
+		"oF": 0
+		},
 	"\/assets\/fonts\/Austin-LightItalic.otf": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Austin-LightItalic.otf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Austin-LightItalic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-LightItalic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/fonts\/Austin-LightItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-LightItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Austin-LightItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Austin-LightItalic.woff",
 		"oF": 0
 		},
 	"\/assets\/img\/logo.svg": {
@@ -164,7 +220,7 @@
 	"\/assets\/js\/functions.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/functions-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -173,7 +229,7 @@
 	"\/assets\/js\/jquery-2.1.4.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/jquery-2.1.4.min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -181,77 +237,11 @@
 		},
 	"\/favicon.png": {
 		"ft": 32768,
-		"iS": 266971,
+		"iS": 18075,
 		"oA": 0,
 		"oAP": "\/favicon.png",
 		"oF": 0,
-		"opt": 1
-		},
-	"\/final\/Austin-Light.otf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/final\/Austin-Light.otf",
-		"oF": 0
-		},
-	"\/final\/Austin-LightItalic.otf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/final\/Austin-LightItalic.otf",
-		"oF": 0
-		},
-	"\/final\/favicon.png": {
-		"ft": 32768,
-		"iS": 18075,
-		"oA": 0,
-		"oAP": "\/final\/favicon.png",
-		"oF": 0,
 		"opt": 0
-		},
-	"\/final\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/final\/index.html",
-		"oF": 0
-		},
-	"\/final\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/final\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/final\/logo1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/final\/logo1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/final\/main-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/final\/main-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/final\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/final\/main-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
