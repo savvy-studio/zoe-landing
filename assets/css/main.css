@@ -252,19 +252,20 @@ section.left {
       font-weight: lighter;
       letter-spacing: 2px;
       padding: 0; }
-    section.left .center-mobil .last span {
-      font-family: 'Austin-LightItalic';
-      color: #191818; }
-    section.left .center-mobil .last a {
-      padding-right: 5px;
-      font-size: 12pt;
-      font-family: 'Austin-Light';
-      color: #191818; }
-    section.left .center-mobil .last .space {
-      font-family: 'Austin-Light'; }
-    section.left .center-mobil .last .tel {
-      padding-left: 5px;
-      letter-spacing: 2px; }
+    section.left .center-mobil .last {
+      font-size: 12pt; }
+      section.left .center-mobil .last span {
+        font-family: 'Austin-LightItalic';
+        color: #191818; }
+      section.left .center-mobil .last a {
+        padding-right: 5px;
+        font-family: 'Austin-Light';
+        color: #191818; }
+      section.left .center-mobil .last .space {
+        font-family: 'Austin-Light'; }
+      section.left .center-mobil .last .tel {
+        padding-left: 5px;
+        letter-spacing: 2px; }
   section.left .center {
     height: 100vh;
     position: relative;
@@ -306,12 +307,12 @@ section.left {
       -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
       transform: translateX(-50%);
-      bottom: 100px; }
+      bottom: 100px;
+      font-size: 12pt; }
       section.left .center .last span {
         font-family: 'Austin-LightItalic'; }
       section.left .center .last a {
         padding-right: 5px;
-        font-size: 12pt;
         font-family: 'Austin-Light';
         color: #191818; }
       section.left .center .last .space {
